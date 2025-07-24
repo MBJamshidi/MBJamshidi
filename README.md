@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Behdad 👋
 
-<!--
-**MBJamshidi/MBJamshidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Research Scientist and Engineer passionate about AI, digital twins, and real-time intelligent systems.
 
-Here are some ideas to get you started:
+🎓 PhD in Electrical and Data Engineering | 🧠 IEEE Senior Member | 🏅 Global Talent in DigiTech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm working on
+- Developing **Federated & Physics-Informed AI Models**
+- Building **Digital Twins**
+- Advancing **SCADA and Automation Platforms** 
+- Exploring **Semantic Communication**
+- Designing **Real-Time Control Systems** 
+- Modeling and simulating **Complex Processes**
+- Creating **Energy-Efficient Embedded AI Solutions**
+- Integrating **UAV Swarm Intelligence** 
+
+
+## 🎯 Goals
+- Advance reliable AI
+- Bridge real-time systems and edge intelligence
+- Mentor others and contribute to open-source projects
+
+## 🛠️ Tech Interests
+`AI` • `Deep Learning` • `Digital Twins` • `IoT` • `TinyML` • `Federated Learning` • `PINNs` • `UAV` • `Edge Computing` • `Algorithms` • `Control Systems` • `Automation`
+
+## 📫 Let's connect
+- 🌐 [www.metamax.com.au](https://www.metamax.com.au)
+- 📧 m.jamshidi@metamax.com.au
+- 🔗 [LinkedIn](https://www.linkedin.com/in/behdadjamshidi)
+
+---
+
+> “Transforming data into insight, and insight into action.”

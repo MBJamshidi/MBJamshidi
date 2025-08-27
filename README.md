@@ -7,10 +7,10 @@ I'm a Research Scientist and Engineer passionate about AI, digital twins, and re
 ## 🌱 What I'm working on
 - Developing **Federated & Physics-Informed AI Models**
 - Building **Digital Twins**
-- Advancing **SCADA and Automation Platforms** 
+- Advancing **Automation Platforms** 
 - Exploring **Semantic Communication**
 - Designing **Real-Time Control Systems** 
-- Modeling and simulating **Complex Processes**
+- Modeling and simulating **FinTech**
 - Creating **Energy-Efficient Embedded AI Solutions**
 - Integrating **UAV Swarm Intelligence** 
 

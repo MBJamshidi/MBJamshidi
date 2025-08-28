@@ -2,7 +2,7 @@
 
 I'm a Research Scientist and Engineer passionate about AI, digital twins, and real-time intelligent systems.
 
-🎓 PhD in Electrical and Data Engineering | 🧠 IEEE Senior Member | 🏅 Global Talent in DigiTech
+🎓 PhD in AI | 🧠 IEEE Senior Member | 🏅 Global Talent in DigiTech
 
 ## 🌱 What I'm working on
 - Developing **Federated & Physics-Informed AI Models**
@@ -24,8 +24,6 @@ I'm a Research Scientist and Engineer passionate about AI, digital twins, and re
 `AI` • `Deep Learning` • `Digital Twins` • `IoT` • `TinyML` • `Federated Learning` • `PINNs` • `UAV` • `Edge Computing` • `Algorithms` • `Control Systems` • `Automation`
 
 ## 📫 Let's connect
-- 🌐 [www.metamax.com.au](https://www.metamax.com.au)
-- 📧 m.jamshidi@metamax.com.au
 - 🔗 [LinkedIn](https://www.linkedin.com/in/behdadjamshidi)
 
 ---

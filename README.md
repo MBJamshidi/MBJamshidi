@@ -32,7 +32,7 @@ I am a Research Scientist and Engineer working on agentic AI and real-time digit
 `AI` • `Deep Learning` • `Digital Twins` • `IoT` • `TinyML` • `Federated Learning` • `PINNs` • `UAV` • `Edge Computing` • `Algorithms` • `Control Systems` • `Automation`
 
 ## 📫 Let's connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/behdadjamshidi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-behdad-jamshidi-a0b45a71/)
 
 ---
 

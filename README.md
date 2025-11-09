@@ -5,14 +5,25 @@ I am a Research Scientist and Engineer working on agentic AI and real-time digit
 🎓 PhD in AI | 🧠 IEEE Senior Member | 🏅 Global Talent in DigiTech
 
 ## 🌱 What I'm working on
-- Developing **Federated & Physics-Informed AI Models**
-- Building **Digital Twins**
-- Advancing **Automation Platforms** 
-- Exploring **Semantic Communication**
-- Designing **Real-Time Control Systems** 
-- Modeling and simulating **FinTech**
-- Creating **Energy-Efficient Embedded AI Solutions**
-- Integrating **UAV Swarm Intelligence** 
+## Application Sectors (Digital Twin Intelligence)
+
+- **Finance & Risk Systems**  
+  Liquidity modeling • Fraud/KYC remediation • Market behavior forecasting
+
+- **Agriculture & Environmental Systems**  
+  Crop monitoring • Resource optimization • Climate-adaptive decision support
+
+- **Biotechnology & Healthcare**  
+  Bio-process optimization • Personalized metabolic models • Smart diagnostics
+
+- **Industrial & Manufacturing**  
+  Predictive maintenance • Supply chain orchestration • Autonomous workflows
+
+- **Energy & Smart Infrastructure**  
+  Grid balancing • Asset lifecycle management • Decentralized resource control
+
+- **Autonomous Systems & Robotics**  
+  Multi-agent UAV swarms • Real-time sensing-to-action control • Embedded autonomy
 
 
 ## 🎯 Goals

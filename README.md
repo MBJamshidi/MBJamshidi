@@ -6,30 +6,27 @@ I am a Research Scientist and Engineer working on agentic AI and real-time digit
 
 ## 🌱 What I'm working on
 ## Application Sectors (Digital Twin Intelligence)
-
 - **Finance & Risk Systems**  
   Liquidity modeling • Fraud/KYC remediation • Market behavior forecasting
-
 - **Agriculture & Environmental Systems**  
   Crop monitoring • Resource optimization • Climate-adaptive decision support
-
 - **Biotechnology & Healthcare**  
   Bio-process optimization • Personalized metabolic models • Smart diagnostics
-
 - **Industrial & Manufacturing**  
   Predictive maintenance • Supply chain orchestration • Autonomous workflows
-
 - **Energy & Smart Infrastructure**  
   Grid balancing • Asset lifecycle management • Decentralized resource control
-
 - **Autonomous Systems & Robotics**  
   Multi-agent UAV swarms • Real-time sensing-to-action control • Embedded autonomy
 
 
 ## 🎯 Goals
-- Advance reliable AI
-- Bridge real-time systems and edge intelligence
-- Mentor others and contribute to open-source projects
+- **One Core Twin Engine** deployable across finance, biotech, agriculture, and energy.
+- **Shift from Monitoring to Autonomous Decision-Making** in live operations.
+- **Operationalize Multi-Agent AI** for coordinated, real-time action.
+- **Unify Physical + Digital Systems** into continuously learning feedback loops.
+- **Provide Scalable Twin Infrastructure** via clean APIs and modular components.
+
 
 ## 🛠️ Tech Interests
 `AI` • `Deep Learning` • `Digital Twins` • `IoT` • `TinyML` • `Federated Learning` • `PINNs` • `UAV` • `Edge Computing` • `Algorithms` • `Control Systems` • `Automation`

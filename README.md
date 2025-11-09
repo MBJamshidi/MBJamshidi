@@ -1,6 +1,6 @@
 # Hi, I'm Behdad 👋
 
-I'm a Research Scientist and Engineer passionate about AI, digital twins, and real-time intelligent systems.
+I am a Research Scientist and Engineer working on agentic AI and real-time digital twin systems. I also founded MetaMax, a deep-tech company developing next-generation, self-optimizing digital twins for high-complexity environments across finance, biotech, and infrastructure.
 
 🎓 PhD in AI | 🧠 IEEE Senior Member | 🏅 Global Talent in DigiTech
 
